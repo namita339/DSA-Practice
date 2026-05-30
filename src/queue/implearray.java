@@ -1,5 +1,4 @@
 package queue;
-import java.util.Queue;
 public class implearray {
 	int[] arr;
 	int f;
